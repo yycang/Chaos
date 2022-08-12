@@ -10,8 +10,7 @@ Welcome to Chaos's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   intro/index
-   about
+   growth/index
 
 
 Indices and tables

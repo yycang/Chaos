@@ -6,3 +6,4 @@
 
     guide/contents
     makedown/contents
+    fate/contents

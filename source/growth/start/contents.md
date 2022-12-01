@@ -50,4 +50,13 @@ pip3 install -r requirements.txt
 
 [markdown语法介绍](https://www.markdown.xyz/basic-syntax/)
 
+如果你想在插入本地图片，把图片放在`source/media`中然后在文章中填入相对路径。
+
 ![logo](../../media/cylogo.png)
+
+
+创作完成后，提交合并main分支的pr就可以了。
+
+一些事项：
+1. 写的文章在开始要加上你的署名哦
+2. 因为这是公开项目，所以不要暴露业务中的私密事项。

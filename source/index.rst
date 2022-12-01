@@ -3,19 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Chaos's documentation!
+窄门餐眼技术团队
 =================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    growth/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

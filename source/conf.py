@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Canyan Web Guide'
+project = 'Canyan Geeks'
 copyright = '2022, 窄门餐眼'
 author = '窄门餐眼技术团队'
 release = 'v1'
